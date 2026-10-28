@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 runs/
+saved_model.json
+data_training.csv
+data_test.csv
+learning_curves.png
+compare.png
